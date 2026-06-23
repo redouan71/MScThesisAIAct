@@ -59,7 +59,7 @@ The results are organized by study phase to make it easier to trace which data b
 
 ## Running the web application locally
 
-To run the prototype locally, first install the dependencies:
+You can run this web application online through the following link: https://letter-bear-43346891.figma.site. However, if you would like to run the prototype locally, first install the dependencies:
 
 ```bash
 npm install
